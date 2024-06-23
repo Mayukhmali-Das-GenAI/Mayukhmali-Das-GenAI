@@ -11,20 +11,27 @@ Greetings, I am Mayukhmali Das, a dedicated data scientist with a profound focus
 ## Experience
 
 ### IDFC FIRST Bank
-- **Associate Data Analyst - Generative AI**
+- **Generative AI**
   - *Feb 2024 - Present*
-  - Engaged in harnessing cutting-edge tools such as OpenAI Whisper, AWS Transcribe, Azure Transcription Services, GPT 3.5, GPT 4, Mistral, and other state-of-the-art GEN AI technologies.
+  - Leading all audio transcription (STT) and language identification initiatives, including experimentation and deployment.
+  - Contributing to fine-tuning initiatives for LLMs and STTs.
+  - Expanding generative AI use cases based on audio at the Bank.
 
-- **Associate Data Analyst - Education Loan & Hyperpersonalization (HPE)**
+I am actively engaged in leveraging cutting-edge tools such as OpenAI Whisper, Nvidia Parakeet, AWS Transcribe, Azure Transcription Services,  GPT 4, GPT4o, Gemini 1.5 Pro, and other state-of-the-art GEN AI technologies.
+
+- **Education Loan & Hyperpersonalization Engine(HPE)**
   - *Jul 2023 - Jan 2024*
-  - Developed core deep learning and machine learning models for the Education Loan division. Ensured alignment of all DL ML models with organizational objectives by deeply understanding business requirements.
+  - I developed the core deep learning and machine learning models for the Education Loan division at IDFC:
+  - Various Propensity Models to acquire new Education Loan customers, trained on data from 30 million customers. Each customer profile includes ten thousand unique features, which we refer to as Customer DNA.
+  - Classification Models that predict whether a prospective customer is likely to choose an International or Domestic Education Loan.
+  - Hyper-personalized communication channels for Education Loan based on factors such as customer locality and other elements from the Customer DNA.
 
 
-### Research Journey Summary
-  - Engaged in AI research from 2020-2023, exploring diverse domains: Monocular Depth Estimation, Multilingual Sentiment Analysis, Spiking Neural Networks, Event-based Vision, and Graph Neural Networks.
+### Undergraduate Research Journey Summary
+  - Engaged in AI research from 2020, explored diverse domains: Monocular Depth Estimation, Multilingual Sentiment Analysis, Spiking Neural Networks, Event-based Vision, and Graph Neural Networks.
   - Published papers on depth estimation, event-based data clustering, and sensor data recovery using Graph Neural Networks.
   - Explored Brain Computer Interface applications, culminating in projects on efficient Electromagnet placement for trans-cranial surgery.
-  - Demonstrated adaptability across computer vision, NLP, and neuromorphic architectures. Committed to advancing AI's interdisciplinary applications with a focus on innovation and optimization.
+  - Demonstrated adaptability across computer vision, NLP, neuromorphic architectures and optimization.
 
 ## Get in Touch
 
